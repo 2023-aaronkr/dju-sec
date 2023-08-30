@@ -10,17 +10,15 @@ title: Information / 과정정보
 
 ### Course Information / 과정정보
 
-웹 페이지를 개발하기 위한 기본 언어인 HTML/XHTML, CSS, JavaScript 의 기본 문법을 이해한다.
+교과목의 핵심역량:
 
-- **컴퓨팅사고력(50%)** 문제를 분석하고, 한정된 조건을 고려하여 문제 해결 방법을 찾을 수 있음
-- **데이터 분석과 표현능력(20%)** 수집된 데이터의 형식을 이해하고, 응용 분야에 적합한 형태로 변화, 활용할 수 있음
-- **알고리즘과 프로그래밍 능력(30%)** 문제 해결을 위한 알고리즘을 설계하고, 복잡도를 분석할 수 있으며, 프로그램으로 구현할 수 있음
+- **과학적사고역량(60%)**
+- **디지털리터러시역량(40%)**
 
-Students will understand the basic grammar of HTML/XHTML, CSS, and JavaScript, which are the basic languages for developing web pages.
+Core competencies of the course:
 
-- **Computational thinking ability (50%)** Able to analyze problems and find solutions to problems in consideration of limited conditions
-- **Data analysis and expression ability (20%)** Able to understand the format of collected data, and be able to change and utilize it in a form suitable for the application field
-- **Algorithm and programming ability (30%)** Able to design algorithms to solve problems, analyze their complexity, and implement them as programs
+- **Scientific Thinking Competence (60%)**
+- **Digital literacy competency (40%)**
 
 ---
 

@@ -1,133 +1,123 @@
-- title: "Module 1: HTML"
-
-- date: 8/30
+- date: 9/4
   week: 1
   title: >
-    <strong>웹프로그래밍 개요 / Introduction to Web Programming</strong> <br />
-    - 01 웹 개발 시작하기, 프로그램 설치 / Start web development, program installation <br />
-    - 02 웹 개발 환경 만들기 / Creating a web development environment
-  slides: "https://docs.google.com/presentation/d/1ehQfKc4YZYBQHPghrQWBant8ONHxgdfi5bjN7_boGKM/edit?usp=sharing"
+    - 과정 소개 <br />
+    - 1장 웹사이트를 해킹하다
+  slides:
   readings:
   logistics:
 
-- date: 9/6
+- date: 9/11
   week: 2
   title: >
-    <strong>HTML 개요 / Intro to HTML</strong> <br />
-    - 03 HTML 기본 문서 만들기 / Creating HTML Basic Documents
+    - 2장 인터넷 작동 방식 <br />
+    - 3장 브라우저 작동 방식
   slides:
   readings:
   logistics:
 
-- date: 9/13
+- date: 9/18
   week: 3
   title: >
-    <strong>04 웹 문서에 다양한 내용 입력하기 / Entering various contents into web documents</strong>
+    - 4장 웹 서버 작동 방식 <br />
+    - 5장 프로그래머 작동 방식
   slides:
   readings:
   logistics:
 
-- date: 9/20
+- date: 9/25
   week: 4
   title: >
-    <strong>05 입력 양식 작성하기 / Fill out the input form</strong>
+    - 6장 인젝션 공격
   slides:
   readings:
   logistics:
 
-- title: "Module 2: CSS"
-
-- date: 9/27
+- date: 10/2
   week: 5
   title: >
-    <strong>CSS 개요 / Intro to CSS</strong> <br />
-    - 06 CSS의 기본 / CSS Basics <br />
-    - 07 텍스트를 표현하는 다양한 스타일 / Various styles to express text
+    <strong>No School</strong> Chuseok
   slides:
   readings:
   logistics:
 
-- date: 10/4
+- date: 10/9
   week: 6
   title: >
-    <strong>08 레이아웃을 구성하는 CSS 박스 모델 / CSS box models that make up the layout</strong>
+    - 7장 크로스 사이트 스크립팅 공격
   slides:
   readings:
   logistics:
 
-- date: 10/11
+- date: 10/16
   week: 7
   title: >
-    <strong>09 이미지와 그러데이션 효과로 배경 꾸미기 / Decorate the background with images and gradient effects</strong>
+    - 8장 사이트 간 요청 위조 공격
   slides:
   readings:
   logistics:
 
-- date: 10/18
+- date: 10/23
   week: 8
   title: >
     <strong>Midterm Test</strong>
 
-- date: 10/25
+- date: 10/30
   week: 9
   title: >
-    <strong>고급 CSS / Advanced CSS</strong> <br />
-    - 10 CSS 고급 선택자 / CSS Advanced Selectors <br />
-    - 11 트랜지션과 애니메이션 / Transitions and animations
+    - 9장 인증 손상
   slides:
   readings:
   logistics:
 
-- date: 11/1
+- date: 11/6
   week: 10
   title: >
-    <strong>12 반응형 웹과 미디어 쿼리 / Responsive web and media queries</strong>
+    - 10장 세션 하이재킹 <br />
+    - 11장 권한
   slides:
   readings:
   logistics:
 
-- title: "Module 3: JavaScript"
-
-- date: 11/8
+- date: 11/13
   week: 11
   title: >
-    <strong>자바스크립트 개요 / Intro to Javascript</strong> <br />
-    - 13 자바스크립트와 첫 만남 / First encounter with JavaScript <br />
-    - 14 자바스크립트 기본 문법 / JavaScript Basic Syntax
+    - 12장 정보 누출
   slides:
   readings:
   logistics:
 
-- date: 11/15
+- date: 11/20
   week: 12
   title: >
-    <strong>15 함수와 이벤트 / Functions and events</strong>
+    - 13장 암호화
   slides:
   readings:
   logistics:
 
-- date: 11/22
+- date: 11/27
   week: 13
   title: >
-    <strong>16 자바스크립트와 객체 / JavaScript and Objects</strong>
+    - 14장 서드 파티
   slides:
   readings:
   logistics:
 
-- date: 11/29
+- date: 12/4
   week: 14
   title: >
-    <strong>17 문서 객체 모델(DOM) / Document Object Model (DOM)</strong>
+    - 15장 XML 공격
   slides:
   readings:
   logistics:
 
-- date: 12/6
+- date: 12/11
   week: 15
   title: >
-    <strong>Final Project / Final Test</strong>
+    - 16장 부속품이 되지 마라 <br />
+    - 17장 서비스 거부 공격 (보강?)
 
-- date: 12/13
+- date: 12/18
   week: 16
   title: >
-    <strong>Final Grades</strong>
+    <strong>Final Test</strong>

@@ -1,16 +1,15 @@
 ---
 layout: about
 permalink: /
-title: <b>웹</b>프로그래밍기초 <b>WEB</b> Programming Foundations
-description: 259111 • 2023년 2학기 • 교통대학교
-logo: ut-logo.jpg
+title: 자바웹해킹<b>보안</b> 및 실습 <br />Java Web Hacking<b>SECURITY</b> and Practice
+description: 009832 • 2023년 2학기 • 대전대학교
+logo: dju-logo.png
 news: true
 ---
 
-- **Time:** 수 123, 567 | Wednesday 9:00am - 11:50am, 1:00pm - 3:50pm
+- **Time:** 월 6789 | Monday 2:00pm - 5:50pm
 - **Location:** [W18 (미래융합정보관) - 108호](https://naver.me/GSHd39rS){:target="\_blank"}
-- **KakaoTalk AM:** [카카오톡 ☕ 오픈채팅](https://open.kakao.com/o/gpQLjODf){:target="\_blank"}
-- **KakaoTalk PM:** [카카오톡 🍔 오픈채팅](https://open.kakao.com/o/gEEjkODf){:target="\_blank"}
+- **KakaoTalk AM:** [카카오톡 오픈채팅](https://open.kakao.com/o/g85r1PDf){:target="\_blank"}
 
 <!--
 - **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
@@ -21,16 +20,24 @@ news: true
 
 ---
 
-웹 페이지를 개발하기 위한 기본 언어인 HTML/XHTML, CSS, JavaScript 의 기본 문법을 이해한다.
+매년 크게 바뀌지 않는 웹 취약점으로부터 웹사이트를 방어하기 위한 실질적인 방안을 이해하기 쉽게 설명한다. 웹 개발자라면 꼭 알아야 하는 필수 지식이며 예시와 함께 해킹에 대한 조치 방안을 알기 쉽게 표현했다.인터넷, 브라우저가 어떻게 동작하는지부터 인젝션 공격, 파일 업로드 공격, DoS 공격의 전반적인 내용을 알아본다. 또한 특정 프로그래밍 언어에 국한되지 않아 웹 보안의 원리를 총체적으로 배우기 좋은 가이드가 될 것이다.
 
-- HTML은 웹사이트의 구조를 제공합니다. HTML 태그를 공부한 후 수업에서 간단한 웹페이지를 함께 만듭니다. 그런 다음 개인 웹 페이지 프로젝트가 할당됩니다.
-- CSS는 웹사이트의 스타일을 제공합니다. CSS 규칙을 공부한 후, 이전에 생성된 클래스 웹 페이지는 함께 스타일이 지정됩니다. 그런 다음 CSS 스타일을 추가하기 위해 개인 웹 페이지 프로젝트가 할당됩니다. 세 번째 웹 페이지를 할당하여 처음부터 만들 수도 있습니다(선택).
-- JavaScript는 웹사이트의 기능을 제공합니다. 자바스크립트의 문법과 기능의 기초를 공부한 후, 간단한 상호작용을 클래스 웹페이지에 추가할 것입니다. 그런 다음 학생들은 자신의 웹페이지에 추가(다른) 기능을 추가해야 합니다. 마지막으로 네 번째 추가 웹페이지를 처음부터 디자인하도록 할당할 수도 있습니다(선택).
+- SQL 인젝션 공격, 악의적인 자바스크립트와 CSRF로부터의 보호 방법
+- 인증 및 형상 액세스 제어 방법을 활용한 계정 보호
+- 암호 추측, 세션 도용 또는 권한 상승에 의존하는 공격 방지
+- 암호화 구현
+- 레거시 코드의 취약점 관리
+- 취약점을 노출하는 정보 누출 방지
+- 과대 광고 및 서비스 거부 등 고급 공격 완화
 
 ---
 
-Students will understand the basic grammar of HTML/XHTML, CSS, and JavaScript, which are the basic languages for developing web pages.
+This course explains in an easy-to-understand practical way to defend websites from web vulnerabilities that do not change much every year. It is an essential knowledge that web developers must know, and the countermeasures against hacking are expressed in an easy-to-understand way with examples. From how the Internet and browsers work, to the overall contents of injection attacks, file upload attacks, and DoS attacks. It is also not limited to a specific programming language, so it will be a good guide to learn the principles of web security as a whole.
 
-- HTML provides the structure of the website. After studying HTML tags, we create simple webpages together in class. Students will then be assigned a Personal Web Page project.
-- CSS provides the style of the website. After studying the CSS rules, the previously created class web pages will be styled together. The Personal Web Page project will be assigned to add CSS styles. Or students can choose to build a new webpage from scratch (optional).
-- JavaScript powers the functionality of the website. After studying the basics of JavaScript syntax and functionality, we will add simple interactions to our class webpage. Students then need to add additional (other) features to their Personal Web Page project. Or students can choose to build a new webpage from scratch (optional).
+- How to protect against SQL injection attacks, malicious JavaScript and CSRF
+- Account protection using authentication and configuration access control methods
+- Prevents attacks that rely on password guessing, session hijacking, or privilege escalation
+- Encryption Implementation
+- Vulnerability management of legacy code
+- Prevent information leakage that exposes vulnerabilities
+- Mitigate advanced attacks such as hype and denial of service
