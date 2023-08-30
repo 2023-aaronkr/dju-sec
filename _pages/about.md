@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: 자바웹해킹<b>보안</b> 및 실습 <br />Java Web Hacking<b>SECURITY</b> and Practice
+title: 자바웹해킹<b>보안</b> 및 실습 <br />Web Hacking <b>SECURITY</b>
 description: 009832 • 2023년 2학기 • 대전대학교
 logo: dju-logo.png
 news: true
