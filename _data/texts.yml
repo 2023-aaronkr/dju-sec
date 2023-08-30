@@ -1,0 +1,31 @@
+Main-Text:
+  - text: "주교재"
+    author: "고경희"
+    title: >
+      <strong>Do it! HTML+CSS+자바스크립트 웹 표준의 정석:  한 권으로 끝내는 웹 기본 교과서</strong>
+    publisher: "이지스퍼블리싱 | 2021년 01월 22일"
+    link: "https://www.yes24.com/Product/Goods/96674934"
+    code:
+    notes:
+    image: texts/web-text.jpg
+
+Supplementary:
+  - text: "참고서적"
+    author: "존 두켓 저 / 홍영표 역"
+    title: >
+      <strong>HTML & CSS 웹사이트 개발과 디자인 기초</strong>
+    publisher: "에이콘출판사 | 2012년 11월 30일"
+    link: "https://www.yes24.com/Product/Goods/8007403"
+    code:
+    notes:
+    image:
+
+  - text: "참고서적"
+    author: "존 두켓 저 / 장현희 역"
+    title: >
+      <strong>자바스크립트 & 제이쿼리</strong>
+    publisher: "제이펍 | 2015년 03월 31일"
+    link: "https://www.yes24.com/Product/Goods/17255377"
+    code:
+    notes:
+    image:
