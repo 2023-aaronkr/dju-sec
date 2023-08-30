@@ -24,6 +24,14 @@ Core competencies of the course:
 
 ### Grading
 
+시험 및 평가 방법:
+
+- 참여: 10%
+- 실습: 30%
+- 중간고사: 20%
+- 기말고사: 30%
+- 개인 발표나 프로젝트: 10%
+
 The class requirements include brief reading summaries, (at least) 3 projects, and 2 tests.
 The grading breakdown is as follows:
 
