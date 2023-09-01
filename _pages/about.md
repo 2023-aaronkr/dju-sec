@@ -8,8 +8,8 @@ news: true
 ---
 
 - **Time:** 월 6789 | Monday 2:00pm - 5:50pm
-- **Location:** [W18 (미래융합정보관) - 108호](https://naver.me/GSHd39rS){:target="\_blank"}
-- **KakaoTalk AM:** [카카오톡 오픈채팅](https://open.kakao.com/o/g85r1PDf){:target="\_blank"}
+- **Location:**
+- **KakaoTalk:** [카카오톡 오픈채팅](https://open.kakao.com/o/g85r1PDf){:target="\_blank"}
 
 <!--
 - **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
