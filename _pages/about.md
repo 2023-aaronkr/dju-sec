@@ -10,6 +10,7 @@ news: true
 - **Time:** 월 6789 | Monday 2:00pm - 5:50pm
 - **Location:** [융합과학환 408호](https://naver.me/xhK7pEHR)
 - **KakaoTalk:** [카카오톡 오픈채팅](https://open.kakao.com/o/g85r1PDf){:target="\_blank"}
+- **Portal:** [대전대학교 포탈](https://portal.dju.ac.kr){:target="\_blank"}
 
 <!--
 - **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
