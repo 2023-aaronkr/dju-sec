@@ -14,7 +14,8 @@
     - 3장 브라우저 작동 방식
   slides: "https://docs.google.com/presentation/d/1ZfXCRp8I9h6aS6FBCTm3Do6GxtHFwg88MA7DaoSbMq8/edit?usp=sharing"
   readings:
-  logistics:
+  logistics: >
+    <a href="https://docs.google.com/presentation/d/1fTqB2UHtMtZgWq15BzmCbQDHOZqCfLyQUR02mwoGSo4/edit?usp=sharing">Security slides</a>
 
 - date: 9/18
   week: 3
