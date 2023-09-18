@@ -25,7 +25,9 @@
     - 5장 프로그래머 작동 방식
   slides: "https://docs.google.com/presentation/d/1D8kJ3x9a5HLWBDp7IocCMeeudOBnsRxi8_aN4ExtTss/edit?usp=sharing"
   readings:
-  logistics:
+  logistics: >
+    <ul><li><a href="https://docs.google.com/presentation/d/1hIOM50DJznQbAx2H_tXjOvxw_4w0nfD3JtJspq5ci8g/edit?usp=sharing">Node의 이해</a></li>
+    <li><a href="https://docs.google.com/presentation/d/1ZG7bfQzh-1F0vr_2GTpGPBdEsewUk0IZ5YjZ7YHipQs/edit?usp=sharing">Node의 시작</li></ul>
 
 - date: 9/25
   week: 4
