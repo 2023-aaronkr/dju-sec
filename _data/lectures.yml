@@ -4,45 +4,49 @@
     - 과정 소개 <br />
     - 1장 웹사이트를 해킹하다
   slides: "https://docs.google.com/presentation/d/1EurJuMaQVRj8MvTei6whxYdhG4-jgUzBNALNItr1dh0/edit?usp=sharing"
-  readings:
+  readings: >
+    웹 개발자를 위한 웹 보안, 1장<strong>pp. 6-29</strong>
   logistics:
 
 - date: 9/11
   week: 2
   title: >
-    - 2장 인터넷 작동 방식 <br />
-    - 3장 브라우저 작동 방식
+    - 2장 인터넷 작동 방식
   slides: "https://docs.google.com/presentation/d/1ZfXCRp8I9h6aS6FBCTm3Do6GxtHFwg88MA7DaoSbMq8/edit?usp=sharing"
-  readings:
-  logistics: >
-    <a href="https://docs.google.com/presentation/d/1fTqB2UHtMtZgWq15BzmCbQDHOZqCfLyQUR02mwoGSo4/edit?usp=sharing">Security slides</a>
+  readings: >
+    웹 개발자를 위한 웹 보안, 2장<strong>pp. 35-44</strong><br>
+    <ul>
+      <li><a href="https://docs.google.com/presentation/d/1fTqB2UHtMtZgWq15BzmCbQDHOZqCfLyQUR02mwoGSo4/edit?usp=sharing">Security slides</a></li>
+    </ul>
+  logistics:
 
 - date: 9/18
   week: 3
   title: >
-    - 3장 브라우저 작동 방식 <br />
-    - 4장 웹 서버 작동 방식 <br />
-    - 5장 프로그래머 작동 방식
+    - 3장 브라우저 작동 방식
   slides: "https://docs.google.com/presentation/d/1D8kJ3x9a5HLWBDp7IocCMeeudOBnsRxi8_aN4ExtTss/edit?usp=sharing"
-  readings:
-  logistics: >
+  readings: >
+    웹 개발자를 위한 웹 보안, 3장<strong>pp. 45-52</strong>
     <ul>
       <li><a href="https://docs.google.com/presentation/d/1hIOM50DJznQbAx2H_tXjOvxw_4w0nfD3JtJspq5ci8g/edit?usp=sharing">Node의 이해</a></li>
       <li><a href="https://docs.google.com/presentation/d/1ZG7bfQzh-1F0vr_2GTpGPBdEsewUk0IZ5YjZ7YHipQs/edit?usp=sharing">Node의 시작</a></li>
-      <li><a href="https://classroom.github.com/a/vidC-btC">Node 웹서버 실습</a></li>
     </ul>
+  logistics: >
+    <a href="https://classroom.github.com/a/vidC-btC">Node 웹서버 실습</a>
 
 - date: 9/25
   week: 4
   title: >
-    - 4장 웹 서버 작동 방식 <br />
-    - 5장 프로그래머 작동 방식
+    - 4장 웹 서버 작동 방식
   slides: "https://docs.google.com/presentation/d/16WBPHmdOJGnB9nWbZxW215Qa1H2xbYjF41hFl-UapmY/edit?usp=sharing"
-  readings:
-  logistics: >
+  readings: >
+    웹 개발자를 위한 웹 보안, 4장<strong>pp. 53-67</strong>
     <ul>
       <li><a href="https://docs.google.com/presentation/d/1iPddovadZJu461i6j8c45UogczPg7aR-kMlSY0-BA-8/edit?usp=sharing">첫 웹 앱 스라이드</a></li>
       <li><a href="https://github.com/2023-aaronkr/week-3-starting-node-jekkilekki">간단한 웹서버 코드</a></li>
+    </ul>
+  logistics: >
+    <ul>
       <li><a href="https://classroom.github.com/a/V72aMUCJ">풀 웹 앱 실습</a></li>
       <li><a href="https://drive.google.com/file/d/1WhfiZrmRJgm7QIcjUv-jhig3xki1G3sk/view?usp=sharing">HTML 파일</a></li>
     </ul>
@@ -50,25 +54,22 @@
 - date: 10/2
   week: 5
   title: >
-    <strong>No School</strong> Chuseok
-  slides:
-  readings:
-  logistics:
+    <strong>No School</strong> Chuseok <br>
+    <span style="color: red">(10/16 저녁 보강)</span>
 
 - date: 10/9
   week: 6
   title: >
-    <strong>No School</strong> Chuseok
-  slides:
-  readings:
-  logistics:
+    <strong>No School</strong> Hangul Day <br>
+    <span style="color: red">(보강 TBA 11/20?)</span>
 
 - date: 10/16
   week: 7
   title: >
-    - 6장 인젝션 공격 <br />
+    - 5장 프로그래머 작동 방식
   slides:
-  readings:
+  readings: >
+    웹 개발자를 위한 웹 보안, 5장<strong>pp. 69-82</strong>
   logistics:
 
 - date: 10/23
@@ -79,17 +80,14 @@
 - date: 10/30
   week: 9
   title: >
-    - 7장 크로스 사이트 스크립팅 공격 <br />
-    - 8장 사이트 간 요청 위조 공격
-  slides:
-  readings:
-  logistics:
+    <strong>No School</strong> DJU BDay!~ <br>
+    <span style="color: red">(12/11 월요일 보강)</span>
 
 - date: 11/6
   week: 10
   title: >
-    - 9장 인증 손상 <br />
-    - 10장 세션 하이재킹 <br />
+    - 6장 인젝션 공격 <br />
+    - 7장 크로스 사이트 스크립팅 공격
   slides:
   readings:
   logistics:
@@ -97,6 +95,9 @@
 - date: 11/6 (저녁 보강)
   week: 10
   title: >
+    - 8장 사이트 간 요청 위조 공격 <br />
+    - 9장 인증 손상 <br />
+    - 10장 세션 하이재킹 <br />
     - 11장 권한
   slides:
   readings:
