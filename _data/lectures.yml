@@ -89,16 +89,15 @@
     - 6장 인젝션 공격 <br />
     - 7장 크로스 사이트 스크립팅 공격
   slides:
-  readings:
+  readings: >
+    웹 개발자를 위한 웹 보안, 6-7장<strong>pp. 85-116</strong>
   logistics:
 
-- date: 11/6 (저녁 보강)
-  week: 10
+- date: 11/6
+  week: 5 (보강)
   title: >
-    - 8장 사이트 간 요청 위조 공격 <br />
-    - 9장 인증 손상 <br />
-    - 10장 세션 하이재킹 <br />
-    - 11장 권한
+    <span style="color: red">5주차 보강</span><br>
+    - 1차 발표
   slides:
   readings:
   logistics:
@@ -106,40 +105,62 @@
 - date: 11/13
   week: 11
   title: >
-    - 12장 정보 누출
+    - 8장 사이트 간 요청 위조 공격 <br />
+    - 9장 인증 손상
   slides:
-  readings:
+  readings: >
+    웹 개발자를 위한 웹 보안, 8-9장<strong>pp. 117-139</strong>
   logistics:
 
 - date: 11/20
   week: 12
   title: >
-    - 13장 암호화
+    - 10장 세션 하이재킹 <br />
+    - 11장 권한
   slides:
-  readings:
+  readings: >
+    웹 개발자를 위한 웹 보안, 10-11장<strong>pp. 141-165</strong>
   logistics:
 
 - date: 11/27
   week: 13
   title: >
-    - 14장 서드 파티
+    - 12장 정보 누출<br>
+    - 13장 암호화
   slides:
-  readings:
+  readings: >
+    웹 개발자를 위한 웹 보안, 12-13장<strong>pp. 167-188</strong>
   logistics:
 
 - date: 12/4
   week: 14
   title: >
+    - 14장 서드 파티<br>
     - 15장 XML 공격
+  slides:
+  readings: >
+    웹 개발자를 위한 웹 보안, 14-15장<strong>pp. 191-218</strong>
+  logistics:
+
+- date: 12/4
+  week: 6 (보강)
+  title: >
+    <span style="color: red">6주차 보강?</span><br>
+    - 2차 발표
   slides:
   readings:
   logistics:
 
 - date: 12/11
-  week: 15
+  week: 9 (보강)
   title: >
+    <span style="color: red">9주차 보강</span><br>
     - 16장 부속품이 되지 마라 <br />
-    - 17장 서비스 거부 공격 (보강?)
+    - 17장 서비스 거부 공격
+  slides:
+  readings: >
+    웹 개발자를 위한 웹 보안, 16-17장<strong>pp. 219-237</strong>
+  logistics:
 
 - date: 12/18
   week: 16
