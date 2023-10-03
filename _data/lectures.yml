@@ -5,7 +5,8 @@
     - 1장 웹사이트를 해킹하다
   slides: "https://docs.google.com/presentation/d/1EurJuMaQVRj8MvTei6whxYdhG4-jgUzBNALNItr1dh0/edit?usp=sharing"
   readings: >
-    웹 개발자를 위한 웹 보안, 1장<strong>pp. 6-29</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>1장 pp. 6-29</strong>
   logistics:
 
 - date: 9/11
@@ -14,7 +15,8 @@
     - 2장 인터넷 작동 방식
   slides: "https://docs.google.com/presentation/d/1ZfXCRp8I9h6aS6FBCTm3Do6GxtHFwg88MA7DaoSbMq8/edit?usp=sharing"
   readings: >
-    웹 개발자를 위한 웹 보안, 2장<strong>pp. 35-44</strong><br>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>2장 pp. 35-44</strong><br>
     <ul>
       <li><a href="https://docs.google.com/presentation/d/1fTqB2UHtMtZgWq15BzmCbQDHOZqCfLyQUR02mwoGSo4/edit?usp=sharing">Security slides</a></li>
     </ul>
@@ -26,7 +28,8 @@
     - 3장 브라우저 작동 방식
   slides: "https://docs.google.com/presentation/d/1D8kJ3x9a5HLWBDp7IocCMeeudOBnsRxi8_aN4ExtTss/edit?usp=sharing"
   readings: >
-    웹 개발자를 위한 웹 보안, 3장<strong>pp. 45-52</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>3장 pp. 45-52</strong>
     <ul>
       <li><a href="https://docs.google.com/presentation/d/1hIOM50DJznQbAx2H_tXjOvxw_4w0nfD3JtJspq5ci8g/edit?usp=sharing">Node의 이해</a></li>
       <li><a href="https://docs.google.com/presentation/d/1ZG7bfQzh-1F0vr_2GTpGPBdEsewUk0IZ5YjZ7YHipQs/edit?usp=sharing">Node의 시작</a></li>
@@ -40,7 +43,8 @@
     - 4장 웹 서버 작동 방식
   slides: "https://docs.google.com/presentation/d/16WBPHmdOJGnB9nWbZxW215Qa1H2xbYjF41hFl-UapmY/edit?usp=sharing"
   readings: >
-    웹 개발자를 위한 웹 보안, 4장<strong>pp. 53-67</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>4장 pp. 53-67</strong>
     <ul>
       <li><a href="https://docs.google.com/presentation/d/1iPddovadZJu461i6j8c45UogczPg7aR-kMlSY0-BA-8/edit?usp=sharing">첫 웹 앱 스라이드</a></li>
       <li><a href="https://github.com/2023-aaronkr/week-3-starting-node-jekkilekki">간단한 웹서버 코드</a></li>
@@ -69,7 +73,8 @@
     - 5장 프로그래머 작동 방식
   slides:
   readings: >
-    웹 개발자를 위한 웹 보안, 5장<strong>pp. 69-82</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>5장 pp. 69-82</strong>
   logistics:
 
 - date: 10/23
@@ -90,7 +95,8 @@
     - 7장 크로스 사이트 스크립팅 공격
   slides:
   readings: >
-    웹 개발자를 위한 웹 보안, 6-7장<strong>pp. 85-116</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>6-7장 pp. 85-116</strong>
   logistics:
 
 - date: 11/6
@@ -109,7 +115,8 @@
     - 9장 인증 손상
   slides:
   readings: >
-    웹 개발자를 위한 웹 보안, 8-9장<strong>pp. 117-139</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>8-9장 pp. 117-139</strong>
   logistics:
 
 - date: 11/20
@@ -119,7 +126,8 @@
     - 11장 권한
   slides:
   readings: >
-    웹 개발자를 위한 웹 보안, 10-11장<strong>pp. 141-165</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>10-11장 pp. 141-165</strong>
   logistics:
 
 - date: 11/27
@@ -129,7 +137,8 @@
     - 13장 암호화
   slides:
   readings: >
-    웹 개발자를 위한 웹 보안, 12-13장<strong>pp. 167-188</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>12-13장 pp. 167-188</strong>
   logistics:
 
 - date: 12/4
@@ -139,7 +148,8 @@
     - 15장 XML 공격
   slides:
   readings: >
-    웹 개발자를 위한 웹 보안, 14-15장<strong>pp. 191-218</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>14-15장 pp. 191-218</strong>
   logistics:
 
 - date: 12/4
@@ -159,7 +169,8 @@
     - 17장 서비스 거부 공격
   slides:
   readings: >
-    웹 개발자를 위한 웹 보안, 16-17장<strong>pp. 219-237</strong>
+    웹 개발자를 위한 웹 보안, <br>
+    <strong>16-17장 pp. 219-237</strong>
   logistics:
 
 - date: 12/18
