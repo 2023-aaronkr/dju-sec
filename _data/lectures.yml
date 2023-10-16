@@ -35,7 +35,7 @@
       <li><a href="https://docs.google.com/presentation/d/1ZG7bfQzh-1F0vr_2GTpGPBdEsewUk0IZ5YjZ7YHipQs/edit?usp=sharing">Node의 시작</a></li>
     </ul>
   logistics: >
-    <a href="https://classroom.github.com/a/vidC-btC">Node 웹서버 실습</a>
+    <a href="https://classroom.github.com/a/vidC-btC">3주차 코딩: Node 웹서버 실습</a>
 
 - date: 9/25
   week: 4
@@ -50,7 +50,7 @@
       <li><a href="https://github.com/2023-aaronkr/week-3-starting-node-jekkilekki">간단한 웹서버 코드</a></li>
     </ul>
   logistics: >
-    <a href="https://classroom.github.com/a/V72aMUCJ">풀 웹 앱 실습</a>
+    <a href="https://classroom.github.com/a/V72aMUCJ">4주차 코딩: 풀 웹 앱 실습</a>
     <a href="https://drive.google.com/file/d/1WhfiZrmRJgm7QIcjUv-jhig3xki1G3sk/view?usp=sharing">HTML 파일</a>
 
 - date: 10/2
@@ -69,11 +69,13 @@
   week: 7
   title: >
     - 5장 프로그래머 작동 방식
-  slides:
+  slides: "https://docs.google.com/presentation/d/1CGI8WL-ofDaC1x9X2YNcF1rnX55dRMn-rYssPi9MgwM/edit?usp=sharing"
   readings: >
     웹 개발자를 위한 웹 보안, <br>
     <strong>5장 pp. 69-82</strong>
-  logistics:
+  logistics: >
+    <a href="https://classroom.github.com/a/KdH-dZHA">7주차 코딩: Express 웹 앱</a>
+    <a href="https://ut-nodejs.github.io/slides/2.8-11-express-web-development.pdf">Express 웹서버 스라이드</a>
 
 - date: 10/23
   week: 8
