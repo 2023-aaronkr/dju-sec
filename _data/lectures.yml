@@ -97,7 +97,7 @@
   title: >
     - 6장 인젝션 공격 <br />
     - 7장 크로스 사이트 스크립팅 공격
-  slides:
+  slides: "https://docs.google.com/presentation/d/1Q7EUBIjwoXgo6moMw3uFuzt2E-zS0IEFuaIH7ne2nUU/edit?usp=sharing"
   readings: >
     웹 개발자를 위한 웹 보안, <br>
     <strong>6-7장 pp. 85-116</strong>
@@ -108,9 +108,10 @@
   title: >
     <span style="color: red">5주차 보강</span><br>
     - 1차 발표
-  slides:
+  slides: "https://docs.google.com/presentation/d/13juS36Ui2Fnt1WtV8u_udyYiCTfTtw4haz6FW5C9iDI/edit?usp=sharing"
   readings:
-  logistics:
+  logistics: >
+    슬라이드 템플릿 사용하고 발표 PPT를 만들어 주세요.
 
 - date: 11/13
   week: 11
