@@ -118,7 +118,7 @@
   title: >
     - 8장 사이트 간 요청 위조 공격 <br />
     - 9장 인증 손상
-  slides:
+  slides: "https://docs.google.com/presentation/d/1fhPv3T9w0D0gpgnYMe3DVZmi3woRG-gtha5RgBUeth8/edit?usp=sharing"
   readings: >
     웹 개발자를 위한 웹 보안, <br>
     <strong>8-9장 pp. 117-139</strong>
