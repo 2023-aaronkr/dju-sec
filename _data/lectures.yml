@@ -151,19 +151,10 @@
   title: >
     - 14장 서드 파티<br>
     - 15장 XML 공격
-  slides:
+  slides: "https://docs.google.com/presentation/d/1ClASql_ujDWzpr4ZCbnGduTNiFzA-7AkqkYXWmY1_KA/edit?usp=sharing"
   readings: >
     웹 개발자를 위한 웹 보안, <br>
     <strong>14-15장 pp. 191-218</strong>
-  logistics:
-
-- date: 12/4
-  week: 6 (보강)
-  title: >
-    <span style="color: red">6주차 보강?</span><br>
-    - 2차 발표
-  slides:
-  readings:
   logistics:
 
 - date: 12/11
